@@ -7,5 +7,8 @@ due to some instructions being undefined.
 
 ## Usage : `ds {filepath}`
 
+## Technical stack
+- C
 
-Warning : ELF files are disassembled without symbols or relocations
+### Warning 
+ELF files are disassembled without symbols or relocations
